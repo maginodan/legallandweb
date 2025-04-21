@@ -14,11 +14,11 @@ type Link = {
 
 const links = [
   {
-    label: `Features`,
+    label: `Services`,
     href: `/`,
   },
   {
-    label: `Testimonials`,
+    label: `Resources`,
     href: `/`,
   },
   {
@@ -33,15 +33,15 @@ const links = [
 
 const secondaryLinks = [
   {
-    label: `Contact sales`,
+    label: `Contact Us`,
     href: `/`,
   },
   {
-    label: `Log in`,
+    label: `Sign In`,
     href: `/`,
   },
   {
-    label: `Get Started`,
+    label: `Start Now`,
     href: `/`,
   },
 ];
@@ -120,7 +120,7 @@ const Navigation = () => {
         <div className={tw(`flex items-center justify-between h-24`)}>
           <div className={tw(`flex items-center`)}>
             <div className={tw(`flex-shrink-0`)}>
-              <img className={tw(`h-12 w-12`)} src="logo.svg" alt="logo" width={48} height={48} />
+              <img className={tw(`h-12 w-12`)} src="logo.svg" alt="LegalLandAI" width={48} height={48} />
             </div>
             <div className={tw(`hidden md:block`)}>
               <div className={tw(`ml-10 flex items-baseline space-x-4`)}>
@@ -138,9 +138,9 @@ const Navigation = () => {
           </div>
           <div className={tw(`hidden md:block`)}>
             <div className={tw(`ml-4 flex items-center md:ml-6`)}>
-              <Button modifier="border-0 mr-2">Contact sales</Button>
-              <Button modifier="border-0 mr-2">Log in</Button>
-              <Button primary>Get started</Button>
+              <Button modifier="border-0 mr-2">Contact Us</Button>
+              <Button modifier="border-0 mr-2">Sign In</Button>
+              <Button primary>Start Now</Button>
             </div>
           </div>
           <div className={tw(`-mr-2 flex md:hidden`)}>
