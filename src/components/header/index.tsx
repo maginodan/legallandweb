@@ -34,7 +34,9 @@ const Header: FC = () => (
         </p>
       </div>
       <div className={tw(`mt-10 flex justify-center items-center w-full mx-auto`)}>
-        <Button primary>Start Now</Button>
+        <a href="https://huggingface.co/spaces/maginodan/LegalLandAssistant">
+          <Button primary>Start Now</Button>
+        </a>
         <span className={tw(`mx-2`)}>or</span>
         <Button>Learn More</Button>
       </div>
