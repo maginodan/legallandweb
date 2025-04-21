@@ -14,7 +14,7 @@ export default function Home() {
     <Page>
       <NextSeo
         title="lEGALLAND - Assistant"
-        description="A TypeScript/Next.js theme that includes everything you need to build amazing landing page!"
+        description="POWERING UGANDANS"
       />
       <Header />
       <main>
