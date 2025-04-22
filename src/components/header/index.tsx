@@ -50,11 +50,11 @@ const Header: FC = () => (
         >
           Trusted by Leading Partners
         </p>
-        <div className={tw(`flex items-center justify-center mx-auto flex-wrap`)}>
-          <Aws className={tw(`mx-4 my-2`)} width={100} />
-          <Netlify className={tw(`mx-4 my-2`)} width={100} />
-          <Nike className={tw(`mx-4 my-2`)} width={100} />
-          <Figma className={tw(`mx-4 my-2`)} width={100} />
+        <div className={tw(`flex items-center justify-center mx-auto flex-wrap gap-6`)}>
+          <Aws className={tw(`w-24 h-auto`)} />
+          <Netlify className={tw(`w-24 h-auto`)} />
+          <Nike className={tw(`w-24 h-auto`)} />
+          <Figma className={tw(`w-24 h-auto`)} />
         </div>
       </div>
     </div>
