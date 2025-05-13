@@ -34,7 +34,7 @@ const Header: FC = () => (
         </p>
       </div>
       <div className={tw(`mt-10 flex justify-center items-center w-full mx-auto`)}>
-        <a href="https://huggingface.co/spaces/maginodan/LegalLand-Assistant">
+        <a href="https://huggingface.co/spaces/maginodan/Legal-Land-Assistant">
           <Button primary>Start Now</Button>
         </a>
         <span className={tw(`mx-2`)}>or</span>
