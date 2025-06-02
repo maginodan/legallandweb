@@ -18,13 +18,13 @@ const socialProofs = [
   {
     name: `Owiny Marvin`,
     company: `UG Land Solutions Ltd.`,
-    image: `/images/social-3.webp`,
+    image: `/images/social-1.webp`,
     text: `We’ve used the chatbot internally to support clients seeking land advice. It’s precise, easy to use, and saves hours of manual effort. The insights from our advisory team helped shape its legal accuracy.`,
   },
   {
     name: `Kaitesi Joan`,
     company: `UrbanLaw Advocates`,
-    image: `/images/social-4.webp`,
+    image: `/images/social-2.webp`,
     text: `As a legal advisor, I’ve collaborated closely with the development team to ensure the chatbot reflects Uganda’s land laws and regulations. It’s a smart tool for both lawyers and laypeople alike.`,
   },
 ];
