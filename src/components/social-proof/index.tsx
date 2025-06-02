@@ -4,22 +4,28 @@ import Quote from '@/constants/svg/quote.svg';
 
 const socialProofs = [
   {
-    name: `John Doe`,
-    company: `Alphabet Inc.`,
+    name: `Magino Daniel`,
+    company: `MAGINO LegalTech`,
     image: `/images/social-1.webp`,
-    text: `Commodo Lorem consequat ea consectetur pariatur proident excepteur.
-    Pariatur eiusmod minim minim ipsum tempor aute excepteur minim eu nisi laboris.
-    Duis sunt labore eu eu cupidatat labore commodo id aliquip.`,
+    text: `As a key contributor to the chatbot's development, I’ve seen how it streamlines legal land advisory in Uganda. It's a real game-changer in improving access to accurate, localized information for landowners and developers.`,
   },
   {
-    name: `Jack Doe`,
-    company: `Amazon.com, Inc.`,
+    name: `Natukunda Phionah`,
+    company: `LandWise Consults`,
     image: `/images/social-2.webp`,
-    text: `Anim labore ut amet cupidatat pariatur pariatur labore ad est.
-    Fugiat eiusmod dolore aliquip aute duis esse excepteur amet.
-    Sit cupidatat ipsum culpa nisi esse ipsum culpa in consectetur.
-    Enim incididunt do sunt ex do. Proident duis nulla minim sunt irure est
-    magna nostrud Lorem consectetur irure.`,
+    text: `This chatbot is exactly what the land sector in Uganda needs. It helps clients navigate complex land ownership and title verification issues efficiently. I’m proud to have supported its legal content development.`,
+  },
+  {
+    name: `Owiny Marvin`,
+    company: `UG Land Solutions Ltd.`,
+    image: `/images/social-3.webp`,
+    text: `We’ve used the chatbot internally to support clients seeking land advice. It’s precise, easy to use, and saves hours of manual effort. The insights from our advisory team helped shape its legal accuracy.`,
+  },
+  {
+    name: `Kaitesi Joan`,
+    company: `UrbanLaw Advocates`,
+    image: `/images/social-4.webp`,
+    text: `As a legal advisor, I’ve collaborated closely with the development team to ensure the chatbot reflects Uganda’s land laws and regulations. It’s a smart tool for both lawyers and laypeople alike.`,
   },
 ];
 
