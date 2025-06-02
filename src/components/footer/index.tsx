@@ -1,9 +1,9 @@
 import { tw } from 'twind';
 import Button from '@/components/button';
-import dynamic from 'next/dynamic';
+// import dynamic from 'next/dynamic';
 
-// Lazy-load SVGs to optimize page loading
-const Logo = dynamic(() => import('@/constants/svg/logo.svg'), { ssr: false })
+// // Lazy-load SVGs to optimize page loading
+// const Logo = dynamic(() => import('@/constants/svg/logo.svg'), { ssr: false })
 
 const serviceLinks = [`Title Verification`, `Tenure Guidance`, `Dispute Resolution`, `Transaction Support`, `FAQs`, `Get Started`];
 const resourceLinks = [
